@@ -39,6 +39,9 @@
     <div class="cuerpo">
         <h1>Conoce Orca 1.0</h1><br><br>
         <img src="../imagen/Orca/Captura.PNG" alt="" class="imagenes">
+        <p>Orca inicia con 2 botones, el de empleado y el de Administrador, el sgundo lo presentaremos mas adeante, por ahora soo veremos e primero, continuemos...</p>
+        <img src="../imagen/Orca/Captura1.PNG" alt="" class="imagenes">
+        <p>Aquí ingresaran las credenciales del empleado, tanto usuario y contraseña suministrado por el area administrativa o por su jefe inmediato...</p>
     </div>
     <footer style="background-color: #2c3e50; color:#dfe4ea; font-size: 20px; font-family:'Times New Roman', Times, serif; text-align: right;">Copyright © Cristian Aguirre</footer>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
