@@ -35,6 +35,9 @@
             </ul>
         </nav>
         
+    <div>
+        <h1>Conoce Orca 1.0</h1><br><br>
+        <img src="" alt="">
     </div>
     <footer style="background-color: #2c3e50; color:#dfe4ea; font-size: 20px; font-family:'Times New Roman', Times, serif; text-align: right;">Copyright © Cristian Aguirre</footer>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
