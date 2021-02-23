@@ -116,3 +116,9 @@
     padding: 2px 40px;
     text-align: center;
 }
+
+.Capturas{
+    display: block;
+    margin: auto;
+    height: 600px;
+}

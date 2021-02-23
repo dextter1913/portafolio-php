@@ -35,7 +35,7 @@
             </ul>
         </nav>
         
-    <div>
+    <div class="Capturas">
         <h1>Conoce Orca 1.0</h1><br><br>
         <img src="../imagen/Orca/Captura.PNG" alt="">
     </div>
