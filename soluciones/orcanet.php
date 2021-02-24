@@ -27,7 +27,7 @@
         </nav>
     </div>
     <div class="encabezado2">
-    <p class="logo"><a href="index.php">TecnoFreaky S.A</a></p>
+    <p class="logo"><a href="../index.php">TecnoFreaky S.A</a></p>
         <nav class="navegacion2">
             <ul>
                 <li><a href="../inicio.php">INICIO</a></li>
@@ -78,8 +78,22 @@
             si no sabes cua es el numero de ID de la categoria de tu negocio, Facíl, le das click en Mostrar categoria y así las veras todas
         </p><br>
         <img src="../imagen/Orca/Captura11.PNG" alt="" class="imagenes"><br><br><br>
-        <p></p><br><br>
+        <p>listo. Ahora vamos a la seccion <b>Modificar Producto</b>, la principal funcion es para que 
+        puedan realizar modificaciones en sus precios, pero tambien puede ser usado para modificar 
+        Nombre y categoria, encontraras datos a modificar,<b>Nombre Producto</b>, <b>Precio Producto</b>, <b>ID Categoria</b>
+        solo debes ingresar el ID del producoto y le das click en <b>Buscar</b> y modificas el campo que requieras, el sistema 
+        realizara la modificacion en la base de datos.
+        </p><br>
         <img src="../imagen/Orca/Captura12.PNG" alt="" class="imagenes"><br><br><br>
+        <p>Ahora encontraras el campo donde puedes registrar a tus Clientes nuevos, dando click en <b>Registro</b>, <b>Registrar Cliente</b>,
+        solo debes llenar los campos y darle click en el boton <b>Ingresar</b>
+        </p><br>
+        <img src="../imagen/Orca/Captura13.PNG" alt="" class="imagenes"><br><br><br>
+        <p>Si deseas Eliminar algun producto, solo le das click en la seccion <b>Eliminar</b>,
+        se abriá esta ventana donde solo tendras que poner el <b>Codigo del Producto</b>, y le das click en el boton <b>Eliminar</b>
+        y listo, producto Eliminado de la base de datos...
+        </p><br>
+        <img src="../imagen/Orca/Captura14.PNG" alt="" class="imagenes"><br><br><br>
 
         
     </div>
